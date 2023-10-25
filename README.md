@@ -93,6 +93,10 @@ GitHub Repository: [vprofile-project-3](https://github.com/jeraldinnemg/vprofile
 
 Udemy Course: [DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy.com/course/devopsprojects/)
 
+
+## Infrastructure Architecture Diagram
+![IAD](images/AWS-Project3-Diagram.drawio.png)
+
 ## Automated Provisioning of the infrastructure evidence.
 ![Elastic beanstalk](images/elasticbean-app.png)
 ![Web app login](images/vprofileapp.png)
@@ -100,7 +104,6 @@ Udemy Course: [DevOps Projects | 20 Real-Time DevOps Projects](https://www.udemy
 ![Users](images/users.png)
 ![RabbitMQ](images/rabbit.png)
 ![SSL](images/secureConnection.png)
-
 
 # Prerequisites
 #
